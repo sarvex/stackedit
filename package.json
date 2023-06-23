@@ -110,7 +110,7 @@
     "replace-in-file": "^4.1.0",
     "rimraf": "^2.6.0",
     "sass-loader": "^7.0.1",
-    "semver": "^5.5.0",
+    "semver": "^7.5.2",
     "shelljs": "^0.8.1",
     "string-replace-loader": "^2.1.1",
     "stylelint": "^9.2.0",
